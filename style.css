@@ -2,6 +2,176 @@
   font-family: Roboto, Helvetica, sans-serif;
 }
 
-.bg-color {
+.hed-bg-color {
   background: #eee;
+}
+.head-container{
+	margin: 40px;
+padding: 70px;
+}
+.head-h1{
+	font-size: 50px;
+}
+.hd-h1{
+	font-size: 20px;
+}
+.head-images{
+	padding: 5px;
+}
+	.hed-images{
+	margin: 40px;
+}
+
+.hed-images1{
+	margin: 40px;
+}
+.hed-images2{
+	margin: 40px;
+	}
+	.hed-images3{
+	margin: 40px;
+}
+	.hed-images4{
+	margin: 40px;
+}
+
+
+.section{
+  margin: 30px;
+  padding: 5vmin;
+}
+.section-1 .container{
+	padding: 40px;
+}
+.section-1 .col-6{
+	padding: 20px;
+}
+.sec1-image{
+min-height: 5px;
+}
+.sec1-h1{
+	font-size: 45px;
+}
+.sec1-p{
+	padding: 10px;
+	font-size: 18px;
+}
+.section-2{
+	padding: 70px;
+}
+.sect-2-h1{
+	font-size: 28px;
+}
+.sect-2-p{
+	font-size: 14px;
+}
+.sen-2-h2{
+	font-size: 17px;
+}
+.sen-2-p{
+	font-size: 14px;
+}
+.set-2-h2{
+	font-size: 17px;
+}
+.set-2-p{
+	font-size: 14px;
+}
+.sec-2-images{
+margin: 5px;
+}
+.section-3{
+	padding: 70px;
+}
+.sect-3-h2{
+	font-size: 27px;
+	padding: 8px;
+}
+.sect-3-images{
+	margin: 5px;
+}
+
+.section-4{
+	background-image: url(images/14432_b7ca169a7d4b17376832e5d5f15ba0ef78759a41e8bd0e1ce668ea07be7301aa-68.png);
+	padding: 50px;
+}
+.sec-4-h1{
+	padding: 20px;
+}
+.sec-4-info{
+	color: red;
+}
+.sec-4-in{
+	color: red;
+}
+.sec-4-inr{
+	color: red;
+}
+.section-5{
+	background-image: url(images/14432_b7ca169a7d4b17376832e5d5f15ba0ef78759a41e8bd0e1ce668ea07be7301aa-82.png);
+}
+.sec-5-bg-color{
+	background:mediumSeaGreen;
+}
+.sec-5-card{
+	height: 10px;
+}
+.sec-5-h6{
+	padding: 70px;
+	color: red;
+}
+.sec-5-p{
+	font-size: xx-large;
+}
+.section-6.bg-color{
+	padding: 40px;
+	background: #eee;
+}
+.section-7.bg-color{
+	padding: 40px;
+	background:#ff0000;
+}
+.section-8{
+	padding: 20px;
+}
+}
+.sec-8-images{
+margin: 40px;
+}
+.sec-8-images2{
+margin: 40px;
+}
+.sec-8-images3{
+margin: 40px;
+}
+.sec-8-images4{
+margin: 40px;
+}
+.sec-8-images5{
+margin: 40px;
+}
+.foot-bg-color{
+background:#000000;
+color: white;
+}
+.foot-hr{
+	color: white;
+}
+.foot-intro{
+	padding: 50px;
+}
+.foot-p{
+	padding: 20px;
+}
+.foot-h4{
+	padding: 50px;
+}
+.foot-h5{
+	padding: 50px;
+}
+.foot-images{
+	padding: 50px;
+}
+.footer-col-3{
+	padding: 50px;
 }
